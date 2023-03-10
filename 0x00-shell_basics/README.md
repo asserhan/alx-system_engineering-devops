@@ -1,1 +1,0 @@
-the script is printing path name of the current working directory
